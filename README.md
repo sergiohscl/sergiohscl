@@ -17,6 +17,11 @@
   </a>
 </div>
 <br><br>
+
+
+<img height="350" src=https://media.giphy.com/media/C9xz2ZeHr5rqiLL8y4/giphy.gif>
+ <img height="300" src=https://octodex.github.com/images/dojocat.jpg>
+
  
  ## **Tecnologias que eu uso no meu dia**  
 <div><br/>
