@@ -1,9 +1,10 @@
 ##  Bem-vindo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<img height="150" align="right" src=https://octodex.github.com/images/dojocat.jpg>
 
 - Oi😀, me chamo Sergio Henrique, sou desenvolvedor web Full Stack, amante do processo de aprendizado.
 
 - Bem-vindo à minha página do GitHub..
-
+ 
 🔭Estou fazendo a transição da minha carreira, de técnico de informática, e procurando oportunidades.
 
 🌱Acompanhe a evolução dos meus códigos aqui.
@@ -18,9 +19,9 @@
 </div>
 <br><br>
 
-
+<div align="center">
 <img height="350" src=https://media.giphy.com/media/C9xz2ZeHr5rqiLL8y4/giphy.gif>
- <img height="300" src=https://octodex.github.com/images/dojocat.jpg>
+ </div>
 
  
  ## **Tecnologias que eu uso no meu dia**  
