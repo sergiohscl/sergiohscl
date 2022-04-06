@@ -40,7 +40,7 @@
   <a href="sergiohscl2@gmail.com" alt="Gmail" target="_blank">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white">
   </a> 
-  <a href="https://https://www.linkedin.com/in/sergio-henrique-7a7ab91aa/" alt="Linkedin" target="blank">
+  <a href="https://https://www.linkedin.com/in/sergio-henrique-7a7ab91aa" alt="Linkedin" target="blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
   
