@@ -49,6 +49,6 @@
   </a>
   
   
-  
+  ![Snake animation](https://github.com/sergiohscl/sergiohscl/blob/output/github-contribution-grid-snake.svg)
 
 
