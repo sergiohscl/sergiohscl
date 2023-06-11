@@ -5,7 +5,7 @@
 
 - Bem-vindo à minha página do GitHub..
  
-🔭Estou fazendo a transição da minha carreira, de técnico de informática, e procurando oportunidades.
+🔭Fiz a transição da minha carreira, de técnico de informática, e hoje atuo como desenvolvedor Full Stack junior na organização FRSTFalconi.
 
 🌱Acompanhe a evolução dos meus códigos aqui.
 
