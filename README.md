@@ -5,7 +5,7 @@
 
 - Bem-vindo à minha página do GitHub..
  
-🔭Fiz a transição da minha carreira, de técnico de informática, e hoje atuo como desenvolvedor Full Stack junior na organização FRSTFalconi.
+🔭Sou desenvolvedor Django/Python altamente motivado e apaixonado pela criação de soluções inovadoras. Iniciei minha jornada focando em componentes e integrações no frontend, onde adquiri habilidades valiosas na construção de interfaces de usuário dinâmicas e intuitivas. Com o tempo, busquei expandir meu conhecimento e assumi desafios mais complexos, evoluindo para a criação de micro-serviços em Django.
 
 🌱Acompanhe a evolução dos meus códigos aqui.
 
